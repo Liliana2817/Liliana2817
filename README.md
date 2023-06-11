@@ -1,4 +1,4 @@
-<h1 align="center"> <b>👋 Hi, I’m @Liliana2817 
+<h1 align="center"> <b>👋 Hi, I’m Liliana
   
 <img src="https://github.com/Liliana2817/Liliana2817/assets/126781409/f623a41b-a26d-4f7f-aad1-875818429acf" align="center" width="200"> </h1></b>
 
@@ -36,7 +36,9 @@
   </div> 
 </p>
               
+Credits: [Liliana](https://github.com/Liliana2817)
 
+Last Edited on: 11/06/2023
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
